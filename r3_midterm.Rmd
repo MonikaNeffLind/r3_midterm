@@ -1,0 +1,8 @@
+---
+title: "Midterm"
+author: "Monika Lind"
+date: "4/30/2019"
+output: html_document
+---
+
+# Sibilance
